@@ -1,0 +1,7 @@
+Host *
+  IdentityFile /ssh/identity
+  IdentityFile /ssh/id_rsa
+  IdentityFile /ssh/id_dsa
+  IdentityFile /ssh/id_ecdsa
+  IdentityFile /ssh/id_ed25519
+  UserKnownHostsFile /ssh/known_hosts
